@@ -4,6 +4,9 @@
 
 Analyze monthly revenue, burn rate, CAC, LTV, and run rate for an early-stage startup.
 
+## Dashboard
+
+
 ## Tools Used
 
 - **Python (Pandas)**: For data processing and KPI calculations
