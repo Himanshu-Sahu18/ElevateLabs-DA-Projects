@@ -5,7 +5,7 @@
 Analyze monthly revenue, burn rate, CAC, LTV, and run rate for an early-stage startup.
 
 ## Dashboard
-
+![Image](https://github.com/user-attachments/assets/8362e4f9-578d-4cf2-8eb2-50ecf89a1e39)
 
 ## Tools Used
 
